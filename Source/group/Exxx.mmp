@@ -1,0 +1,47 @@
+// Exxx.mmp
+//
+// Copyright (c) 2000 Symbian Ltd.  All rights reserved.
+//
+
+// using relative paths for sourcepath and user includes
+
+TARGET        Exxx.app
+TARGETTYPE    app
+UID           0x100039CE 0x200265AF
+
+TARGETPATH    \system\apps\Exxx
+
+SOURCEPATH    ..\src
+SOURCE        Exxx_Main.cpp
+SOURCE        Exxx_Application.cpp
+SOURCE        Exxx_Document.cpp
+SOURCE        Exxx_AppUi.cpp
+SOURCE        Exxx_AppView.cpp
+SOURCE        Exxx_TextModifier.cpp
+SOURCE        Exxx_CheckIfValid.cpp
+
+START BITMAP  background.mbm
+HEADER
+SOURCEPATH    ..\bmp
+SOURCE        c12 background.bmp
+END
+
+START BITMAP  start.mbm
+HEADER
+SOURCEPATH    ..\bmp
+SOURCE        c12 start.bmp
+END
+
+
+USERINCLUDE   ..\inc
+SYSTEMINCLUDE \epoc32\include
+
+SOURCEPATH    ..\resource
+RESOURCE      Exxx.rss
+RESOURCE      title.rss
+RESOURCE      name.rss
+RESOURCE      function.rss
+RESOURCE      foods.rss
+RESOURCE      description.rss
+LIBRARY       euser.lib apparc.lib cone.lib eikcore.lib cknctl.lib eikctl.lib eikdlg.lib eikcoctl.lib
+LIBRARY	      esock.lib hal.lib ckndlg.lib fbscli.lib gdi.lib

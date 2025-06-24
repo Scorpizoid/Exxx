@@ -1,0 +1,5 @@
+- the 'About' box
+- Enter as the default button (to open the combo dialog)
+- TRAP resource file loadings
+- the icon for the additive (e.g. colour, stabiliser etc.)
+- next / previous buttons

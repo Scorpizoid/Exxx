@@ -1,0 +1,8 @@
+- Enter as the default button (to open the combo dialog)           - OK
+- the icon for the additive (e.g. colour, stabiliser etc.)
+- next / previous buttons		- OK
+- round the corners of app icon           - OK
+- fix the RSocket bug
+
+- fix the alloc panic which occurs when the dialog is executed twice or more times
+- fix the inlogicality which occurs when the dialog is opened one time (go to e.g. 129), then pressed Next button, and the program says we're at the last cell

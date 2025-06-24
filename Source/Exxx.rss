@@ -1,0 +1,479 @@
+// Exxx.RSS
+//
+// Copyright (c) 1997-1999 Symbian Ltd.  All rights reserved.
+//
+
+NAME HEWO
+
+#include <eikon.rh>
+#include <eikcore.rsg>
+
+#include <cknctl.rh>
+
+
+#include "exxx.hrh"
+
+RESOURCE RSS_SIGNATURE { }
+
+RESOURCE TBUF { buf=""; }
+
+RESOURCE EIK_APP_INFO
+	{
+	hotkeys=r_example_hotkeys;
+	cba=r_example_cba;
+	menubar=r_example_menubar;
+	}
+
+
+RESOURCE CBA r_example_cba
+    {
+    breadth=80;
+    buttons=
+        {
+        CBA_BUTTON
+            {
+            id=ECbaButton0;
+            txt="Search";
+            bmpfile="";
+            bmpid=0xffff;
+            },
+        CBA_BUTTON
+            {
+            id=ECbaButton1;
+            txt="";
+            bmpfile="";
+            bmpid=0xffff;
+            },
+        CBA_BUTTON
+            {
+            id=ECbaButton2;
+            txt="";
+            bmpfile="";
+            bmpid=0xffff;
+            },
+        CBA_BUTTON
+            {
+            id=ECbaButton3;
+            txt="Close";
+            bmpfile="";
+            bmpid=0xffff;
+            }
+        };
+    }
+
+
+RESOURCE HOTKEYS r_example_hotkeys
+    {
+    control=
+        {
+        HOTKEY { command=EEikCmdExit; key='e'; },
+        HOTKEY { command=EExampleItem0; key='i'; }
+        };
+    }
+
+RESOURCE MENU_BAR r_example_menubar
+    {
+    titles=
+        {
+        MENU_TITLE { menu_pane=r_example_file_menu; txt="File"; },
+		MENU_TITLE { menu_pane=r_example_help_menu; txt="Help"; }
+        };
+    }
+
+RESOURCE MENU_PANE r_example_file_menu
+	{
+	items=
+		{
+		MENU_ITEM { command=EEikCmdExit; txt="Close"; }
+        };
+    }
+
+RESOURCE MENU_PANE r_example_help_menu
+	{
+	items=
+		{
+		MENU_ITEM { command=EExampleItem0; txt="About"; }
+        };
+    }
+
+
+RESOURCE DIALOG r_combobox_demo_dialog 
+    { 
+    title="Insert E number"; 
+    buttons=r_tcombo_dialog_buttons; //Buttons defined in array below. 
+    //Set dialog flags. 
+    //EEikDialogFlagNotifyEsc sets that OkToExitL is called when OK is recieved. 
+    flags=EEikDialogFlagWait | EEikDialogFlagNotifyEsc; 
+    items= 
+        { 
+        DLG_LINE 
+            { 
+            prompt="E"; 
+            type=EEikCtComboBox; 
+            id=EMyComboBoxControlId;// The dialog uses this to identify the control. 
+                                    // Ensure that it is declared in your .hrh file. 
+            control=COMBOBOX 
+                { 
+                width=10; // Width of text editor in characters. 
+                maxlength=100; // Maximum length of editor in pixels. 
+                maxarraysize=3; // Maximum number of items in array. 
+                }; 
+
+            } //End of dialog line. 
+        }; //End of items. 
+    } //End of the dialog resource definition.
+
+
+
+//Buttons for the custom dialog. 
+RESOURCE DLG_BUTTONS r_tcombo_dialog_buttons 
+    { 
+    buttons= 
+        { 
+        //Note that the first button is empty. 
+        //When the COMBOBOX has focus this is replaced by a "Change" button. 
+        DLG_BUTTON { id=ECknBidBlank; button=CMBUT {txt="";}; }, 
+        DLG_BUTTON { id=EEikBidOk; button=CMBUT {txt="OK";}; }, 
+        DLG_BUTTON { id=ECknBidBlank; button=CMBUT {txt="";}; }, 
+        DLG_BUTTON { id=EEikBidCancel; button=CMBUT {txt="Close";}; } 
+        }; 
+    }
+
+
+
+//Resource array listing items displayed by the Combo box control. 
+  RESOURCE ARRAY r_example_control_items 
+      { 
+      items= 
+          { 
+          LBUF { txt="100"; },
+          LBUF { txt="101"; },
+          LBUF { txt="102"; },
+          LBUF { txt="104"; },
+          LBUF { txt="110"; },
+          LBUF { txt="120"; },
+          LBUF { txt="122"; },
+          LBUF { txt="123"; },
+          LBUF { txt="124"; },
+          LBUF { txt="127"; },
+          LBUF { txt="129"; },
+          LBUF { txt="131"; },
+          LBUF { txt="132"; },
+          LBUF { txt="133"; },
+          LBUF { txt="140"; },
+          LBUF { txt="141"; },
+          LBUF { txt="142"; },
+          LBUF { txt="150"; },
+          LBUF { txt="150a"; },
+          LBUF { txt="150b"; },
+          LBUF { txt="150c"; },
+          LBUF { txt="150d"; },
+          LBUF { txt="151"; },
+          LBUF { txt="153"; },
+          LBUF { txt="154"; },
+          LBUF { txt="155"; },
+          LBUF { txt="160"; },
+          LBUF { txt="160a"; },
+          LBUF { txt="160b"; },
+          LBUF { txt="160c"; },
+          LBUF { txt="160d"; },
+          LBUF { txt="160e"; },
+          LBUF { txt="160f"; },
+          LBUF { txt="161"; },
+          LBUF { txt="161b"; },
+          LBUF { txt="161g"; },
+          LBUF { txt="162"; },
+          LBUF { txt="163"; },
+          LBUF { txt="170"; },
+          LBUF { txt="171"; },
+          LBUF { txt="172"; },
+          LBUF { txt="173"; },
+          LBUF { txt="174"; },
+          LBUF { txt="175"; },
+          LBUF { txt="180"; },
+          LBUF { txt="200"; },
+          LBUF { txt="202"; },
+          LBUF { txt="203"; },
+          LBUF { txt="210"; },
+          LBUF { txt="211"; },
+          LBUF { txt="212"; },
+          LBUF { txt="213"; },
+          LBUF { txt="214"; },
+          LBUF { txt="215"; },
+          LBUF { txt="216"; },
+          LBUF { txt="217"; },
+          LBUF { txt="218"; },
+          LBUF { txt="219"; },
+          LBUF { txt="220"; },
+          LBUF { txt="221"; },
+          LBUF { txt="222"; },
+          LBUF { txt="223"; },
+          LBUF { txt="224"; },
+          LBUF { txt="226"; },
+          LBUF { txt="227"; },
+          LBUF { txt="228"; },
+          LBUF { txt="230"; },
+          LBUF { txt="231"; },
+          LBUF { txt="232"; },
+          LBUF { txt="234"; },
+          LBUF { txt="235"; },
+          LBUF { txt="239"; },
+          LBUF { txt="242"; },
+          LBUF { txt="249"; },
+          LBUF { txt="250"; },
+          LBUF { txt="251"; },
+          LBUF { txt="252"; },
+          LBUF { txt="260"; },
+          LBUF { txt="261"; },
+          LBUF { txt="262"; },
+          LBUF { txt="263"; },
+          LBUF { txt="270"; },
+          LBUF { txt="280"; },
+          LBUF { txt="281"; },
+          LBUF { txt="282"; },
+          LBUF { txt="283"; },
+          LBUF { txt="284"; },
+          LBUF { txt="285"; },
+          LBUF { txt="290"; },
+          LBUF { txt="296"; },
+          LBUF { txt="297"; },
+          LBUF { txt="300"; },
+          LBUF { txt="301"; },
+          LBUF { txt="302"; },
+          LBUF { txt="304"; },
+          LBUF { txt="306"; },
+          LBUF { txt="307"; },
+          LBUF { txt="308"; },
+          LBUF { txt="309"; },
+          LBUF { txt="310"; },
+          LBUF { txt="311"; },
+          LBUF { txt="312"; },
+          LBUF { txt="315"; },
+          LBUF { txt="316"; },
+          LBUF { txt="320"; },
+          LBUF { txt="321"; },
+          LBUF { txt="322"; },
+          LBUF { txt="325"; },
+          LBUF { txt="326"; },
+          LBUF { txt="327"; },
+          LBUF { txt="330"; },
+          LBUF { txt="331"; },
+          LBUF { txt="332"; },
+          LBUF { txt="333"; },
+          LBUF { txt="334"; },
+          LBUF { txt="335"; },
+          LBUF { txt="336"; },
+          LBUF { txt="337"; },
+          LBUF { txt="338"; },
+          LBUF { txt="339"; },
+          LBUF { txt="340"; },
+          LBUF { txt="341"; },
+          LBUF { txt="343"; },
+          LBUF { txt="350"; },
+          LBUF { txt="351"; },
+          LBUF { txt="352"; },
+          LBUF { txt="353"; },
+          LBUF { txt="354"; },
+          LBUF { txt="355"; },
+          LBUF { txt="356"; },
+          LBUF { txt="357"; },
+          LBUF { txt="363"; },
+          LBUF { txt="380"; },
+          LBUF { txt="385"; },
+          LBUF { txt="400"; },
+          LBUF { txt="401"; },
+          LBUF { txt="402"; },
+          LBUF { txt="403"; },
+          LBUF { txt="404"; },
+          LBUF { txt="405"; },
+          LBUF { txt="406"; },
+          LBUF { txt="407"; },
+          LBUF { txt="407a"; },
+          LBUF { txt="410"; },
+          LBUF { txt="412"; },
+          LBUF { txt="413"; },
+          LBUF { txt="414"; },
+          LBUF { txt="415"; },
+          LBUF { txt="416"; },
+          LBUF { txt="417"; },
+          LBUF { txt="418"; },
+          LBUF { txt="420"; },
+          LBUF { txt="421"; },
+          LBUF { txt="422"; },
+          LBUF { txt="431"; },
+          LBUF { txt="432"; },
+          LBUF { txt="433"; },
+          LBUF { txt="434"; },
+          LBUF { txt="435"; },
+          LBUF { txt="436"; },
+          LBUF { txt="440"; },
+          LBUF { txt="442"; },
+          LBUF { txt="444"; },
+          LBUF { txt="450"; },
+          LBUF { txt="451"; },
+          LBUF { txt="452"; },
+          LBUF { txt="459"; },
+          LBUF { txt="460"; },
+          LBUF { txt="461"; },
+          LBUF { txt="463"; },
+          LBUF { txt="464"; },
+          LBUF { txt="465"; },
+          LBUF { txt="466"; },
+          LBUF { txt="468"; },
+          LBUF { txt="469"; },
+          LBUF { txt="470"; },
+          LBUF { txt="470a"; },
+          LBUF { txt="470b"; },
+          LBUF { txt="471"; },
+          LBUF { txt="472"; },
+          LBUF { txt="473"; },
+          LBUF { txt="474"; },
+          LBUF { txt="475"; },
+          LBUF { txt="476"; },
+          LBUF { txt="477"; },
+          LBUF { txt="479"; },
+          LBUF { txt="479b"; },
+          LBUF { txt="481"; },
+          LBUF { txt="482"; },
+          LBUF { txt="483"; },
+          LBUF { txt="491"; },
+          LBUF { txt="492"; },
+          LBUF { txt="493"; },
+          LBUF { txt="494"; },
+          LBUF { txt="495"; },
+          LBUF { txt="500"; },
+          LBUF { txt="501"; },
+          LBUF { txt="503"; },
+          LBUF { txt="504"; },
+          LBUF { txt="507"; },
+          LBUF { txt="508"; },
+          LBUF { txt="509"; },
+          LBUF { txt="511"; },
+          LBUF { txt="512"; },
+          LBUF { txt="513"; },
+          LBUF { txt="514"; },
+          LBUF { txt="515"; },
+          LBUF { txt="516"; },
+          LBUF { txt="517"; },
+          LBUF { txt="520"; },
+          LBUF { txt="521"; },
+          LBUF { txt="522"; },
+          LBUF { txt="523"; },
+          LBUF { txt="524"; },
+          LBUF { txt="525"; },
+          LBUF { txt="526"; },
+          LBUF { txt="527"; },
+          LBUF { txt="528"; },
+          LBUF { txt="529"; },
+          LBUF { txt="530"; },
+          LBUF { txt="535"; },
+          LBUF { txt="536"; },
+          LBUF { txt="538"; },
+          LBUF { txt="541"; },
+          LBUF { txt="551"; },
+          LBUF { txt="552"; },
+          LBUF { txt="553"; },
+          LBUF { txt="553a"; },
+          LBUF { txt="553b"; },
+          LBUF { txt="554"; },
+          LBUF { txt="555"; },
+          LBUF { txt="556"; },
+          LBUF { txt="558"; },
+          LBUF { txt="559"; },
+          LBUF { txt="570"; },
+          LBUF { txt="574"; },
+          LBUF { txt="575"; },
+          LBUF { txt="576"; },
+          LBUF { txt="577"; },
+          LBUF { txt="578"; },
+          LBUF { txt="579"; },
+          LBUF { txt="585"; },
+          LBUF { txt="620"; },
+          LBUF { txt="621"; },
+          LBUF { txt="622"; },
+          LBUF { txt="623"; },
+          LBUF { txt="624"; },
+          LBUF { txt="625"; },
+          LBUF { txt="626"; },
+          LBUF { txt="627"; },
+          LBUF { txt="628"; },
+          LBUF { txt="629"; },
+          LBUF { txt="630"; },
+          LBUF { txt="631"; },
+          LBUF { txt="632"; },
+          LBUF { txt="633"; },
+          LBUF { txt="634"; },
+          LBUF { txt="635"; },
+          LBUF { txt="640"; },
+          LBUF { txt="650"; },
+          LBUF { txt="900"; },
+          LBUF { txt="901"; },
+          LBUF { txt="902"; },
+          LBUF { txt="903"; },
+          LBUF { txt="904"; },
+          LBUF { txt="905"; },
+          LBUF { txt="912"; },
+          LBUF { txt="914"; },
+          LBUF { txt="920"; },
+          LBUF { txt="927"; },
+          LBUF { txt="927b"; },
+          LBUF { txt="938"; },
+          LBUF { txt="939"; },
+          LBUF { txt="941"; },
+          LBUF { txt="942"; },
+          LBUF { txt="943"; },
+          LBUF { txt="943a"; },
+          LBUF { txt="943b"; },
+          LBUF { txt="944"; },
+          LBUF { txt="948"; },
+          LBUF { txt="949"; },
+          LBUF { txt="950"; },
+          LBUF { txt="951"; },
+          LBUF { txt="952"; },
+          LBUF { txt="953"; },
+          LBUF { txt="954"; },
+          LBUF { txt="955"; },
+          LBUF { txt="957"; },
+          LBUF { txt="959"; },
+          LBUF { txt="965"; },
+          LBUF { txt="966"; },
+          LBUF { txt="967"; },
+          LBUF { txt="999"; },
+          LBUF { txt="1103"; },
+          LBUF { txt="1105"; },
+          LBUF { txt="1200"; },
+          LBUF { txt="1201"; },
+          LBUF { txt="1202"; },
+          LBUF { txt="1404"; },
+          LBUF { txt="1410"; },
+          LBUF { txt="1412"; },
+          LBUF { txt="1413"; },
+          LBUF { txt="1414"; },
+          LBUF { txt="1420"; },
+          LBUF { txt="1422"; },
+          LBUF { txt="1440"; },
+          LBUF { txt="1442"; },
+          LBUF { txt="1450"; },
+          LBUF { txt="1451"; },
+          LBUF { txt="1505"; },
+          LBUF { txt="1518"; },
+          LBUF { txt="1520"; }
+          }; // End of items. 
+     } // End of the array resource definition.
+
+
+
+
+RESOURCE TBUF r_nothing { buf="" ; }
+
+RESOURCE TBUF r_about_title { buf="Exxx v1.00"; }
+RESOURCE TBUF r_about_message { buf="A Series 80 freeware\n app by Sami Vuori\n\nhttp://www.symbioosi.net"; }
+// RESOURCE TBUF r_e100_name2 { buf="carboxy methyl cellulose" ; }
+// RESOURCE TBUF r_e100_function { buf="Function: Reduces loss of sugars in brewing process" ; }
+// RESOURCE TBUF r_e100_foods { buf="Foods: Frozen chipped potatoes, cheese, cake fillings, diet soft" ; }
+// RESOURCE TBUF r_e100_foods2 { buf="" ; }
+// RESOURCE TBUF r_e100_description { buf="Description: Black dye that is obtained from vegetable sources." ; }
+// RESOURCE TBUF r_e100_description2 { buf="the turmeric plant." ; }
+// RESOURCE TBUF r_e100_description3 { buf="the turmeric plant." ; }
+// RESOURCE TBUF r_e100_description4 { buf="effective in many foods and it does not have any flavour or taste." ; }
+

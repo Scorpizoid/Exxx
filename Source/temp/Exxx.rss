@@ -1,0 +1,16 @@
+#include <aiftool.rh>
+
+RESOURCE AIF_DATA
+{
+app_uid=0x200265AF;
+caption_list=
+	{
+	CAPTION { code=ELangEnglish; caption="Exxx"; }
+	};
+
+num_icons=2;
+
+embeddability= KAppNotEmbeddable;
+hidden=KAppNotHidden;
+newfile= KAppDoesNotSupportNewFile;
+}

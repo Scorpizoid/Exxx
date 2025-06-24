@@ -1,0 +1,31 @@
+// Exxx.hrh
+//
+// Copyright (c) 2000 Symbian Ltd.  All rights reserved.
+//
+
+enum TExampleCbaCommands
+	{
+	ECbaButton0 = 100,
+	ECbaButton1,
+	ECbaButton2,
+	ECbaButton3
+	};
+
+enum TExampleMenuCommands
+	{
+	EExampleItem0 = 200,
+	EExampleItem1,
+	EExampleItem2
+	};
+
+enum TComboBoxControlIds
+	{
+	EMyComboBoxControlId=0
+	};
+
+enum TComboBoxDlgButtons
+	{
+	ECknBidBlank=10,
+	ECknBidOk=20,
+	ECknBidCancel=30
+	};

@@ -1,0 +1,32 @@
+;
+; Basic install file for minimal application
+;
+
+; Languages
+; none -  English only by default
+
+; Installation header
+; Only one component name as we only support English
+; UID is the app's UID
+
+#{"Exxx"},(0x200265AF),1,2,0
+
+"C:\Exxx\Koodi\group\Exxx.aif"-"!:\system\apps\Exxx\Exxx.aif"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\Exxx.app"-"!:\system\apps\Exxx\Exxx.app"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\start.mbm"-"!:\system\apps\Exxx\start.mbm"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\background.mbm"-"!:\system\apps\Exxx\background.mbm"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\Exxx.rsc"-"!:\system\apps\Exxx\Exxx.rsc"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\description.rsc"-"!:\system\apps\Exxx\description.rsc"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\foods.rsc"-"!:\system\apps\Exxx\foods.rsc"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\name.rsc"-"!:\system\apps\Exxx\name.rsc"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\function.rsc"-"!:\system\apps\Exxx\function.rsc"
+"C:\Symbian\6.0\NokiaCPP\Epoc32\Release\armi\urel\title.rsc"-"!:\system\apps\Exxx\title.rsc"
+
+
+
+
+; Required files
+; None
+
+; Component .sis files
+; None
