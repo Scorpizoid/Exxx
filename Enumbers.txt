@@ -1,0 +1,1855 @@
+E-number	E100
+Name	Curcumin
+Function	Colour
+Foods	Fats and oils, curry, processed cheese and fish fingers.
+Description	Orange-yellow colouring extracted from the rhizomes of the turmeric plant.
+
+E-number	E101
+Name	Riboflavin
+Function	Colour
+Foods	Sauces, processed cheese and foods with added vitamins such as bread. 
+Description	Riboflavin is also known as vitamin B2. It can be obtained by fermenting yeast or synthesised artificially. In foods, it is used as an orange-yellow colour.
+
+E-number	E102
+Name	Tartrazine
+Function	Colour
+Foods	Fruit drinks, cakes, confectionery, yoghurt. 
+Description	Yellow coloured synthetic azo colour.
+
+E-number	E104
+Name	Quinoline yellow 
+Function	Colour
+Foods	Smoked fish, ice cream 
+Description	Yellow coloured synthetic azo colour.
+
+E-number	E110
+Name	Sunset Yellow FCF; Orange Yellow S 
+Function	Colour
+Foods	Powdered soup, yoghurt, confectionery, jam. 
+Description	Yellow coloured synthetic colour.
+
+E-number	E120
+Name	Cochineal;Carminic acid; Carmines 
+Function	Colour
+Foods	Alcoholic drinks, carbonated drinks, soup, desserts.
+Description	Natural red colour which is extracted from the external skeleton of scale insects. Commercially produced in Central America, Africa and Spain
+
+E-number	E122
+Name	Azorubine; Carmoisine 
+Function	Colour
+Foods	Powdered soup, sauce, yoghurts, confectionery. 
+Description	Red coloured synthetic azo colour.
+
+E-number	E123
+Name	Amaranth
+Function	Colour
+Foods	Powdered soup, jam, ice cream, instant gravy. 
+Description	Dark purple coloured synthetic colour.
+
+E-number	E124
+Name	Ponceau 4R; Cochineal Red A 
+Function	Colour
+Foods	Powdered soup, tinned fruits, jelly, salami. 
+Description	Red-coloured synthetic colour.
+
+E-number	E127
+Name	Erythrosine
+Function	Colour
+Foods	Jars of cherries, chocolates, tinned meat, biscuits. 
+Description	Red-coloured synthetic dye that is also used in disclosing tablets that highlight plaque on teeth.
+
+E-number	E129
+Name	Allura Red AC 
+Function	Colour
+Foods	Soft drinks 
+Description	Synthetic red colour.
+
+E-number	E131
+Name	Patent Blue V 
+Function	Colour
+Foods	Scotch eggs 
+Description	Blue azo colour.
+
+E-number	E132
+Name	Indigotine; Indigo Carmine 
+Function	Colour
+Foods	Confectionery.
+Description	Blue-coloured synthetic colour.
+
+E-number	E133
+Name	Brilliant Blue FCF 
+Function	Colour
+Foods	Processed peas. 
+Description	Blue synthetic colour.
+
+E-number	E140
+Name	Chlorophylls and chlorophyllins 
+Function	Colour
+Foods	Confectionery, jams, soups, chewing gum. 
+Description	Green pigment in plant tissues that is responsible for photosynthesis. Pigment for use in food processing is extracted from plant sources.
+
+E-number	E141
+Name	Copper complexes of chlorophyll and chlorophyllins 
+Function	Colour
+Foods	Confectionery, jams, soups, chewing gum. 
+Description	Green-colour derived from chlorophyll (E140). More stable than chlorophyll and also soluble in oils.
+
+E-number	E141
+Name	Copper complexes of chlorophyll and chlorophyllins 
+Function	Colour
+Foods	Confectionery, jams, soups, chewing gum. 
+Description	Green-colour derived from chlorophyll (E140). More stable than chlorophyll and also soluble in oils.
+
+E-number	E150a
+Name	Plain caramel 
+Function	Colour
+Foods	Soft drinks, confectionery, biscuits, ice cream, chocolate, beers
+Description	Dark brown to black colour. One of the most common food colourings used. Obtained by the heating of sugars.
+
+E-number	E150b
+Name	Caustic sulphite caramel 
+Function	Colour
+Foods	Soft drinks, confectionery, biscuits, ice cream, chocolate, beers
+Description	Dark brown to black colour. One of the most common food colourings used. Obtained by the heating of sugars.
+
+E-number	E150c
+Name	Ammonia caramel 
+Function	Colour
+Foods	Soft drinks, confectionery, biscuits, ice cream, chocolate, beers
+Description	Dark brown to black colour. One of the most common food colourings used. Obtained by the heating of sugars.
+
+E-number	E150d
+Name	Sulphite ammonia caramel 
+Function	Colour
+Foods	Soft drinks, confectionery, biscuits, ice cream, chocolate, beers
+Description	Dark brown to black colour. One of the most common food colourings used. Obtained by the heating of sugars.
+
+E-number	E151
+Name	Brilliant Black BN; Black PN 
+Function	Colour
+Foods	Blackcurrant jams, sauce.
+Description	Black, synthetic colour.
+
+E-number	E153
+Name	Vegetable carbon 
+Function	Colour
+Foods	Jams, fruit juices. 
+Description	Black dye that is obtained from vegetable sources.
+
+E-number	E154
+Name	Brown FK 
+Function	Colour
+Foods	Smoked fish. 
+Description	Brown-coloured synthetic colour. Stable in salt solution and so used predominantly in the production of smoked kippers.
+
+E-number	E155
+Name	Brown HT 
+Function	Colour
+Foods	Confectionery
+Description	Brown-coloured synthetic colour.
+
+E-number	E160a
+Name	Carotenes
+Function	Colour
+Foods	Soft drinks, margarine, butter, yoghurt. 
+Description	Orange-yellow colours found in plants such as carrots, tomatoes and oranges.
+
+E-number	E160b
+Name	Annatto; Bixin; Norbixin 
+Function	Colour
+Foods	Soft drinks, cheese, oil, crisps, confectionery, margarine. 
+Description	Yellow-red colour obtained from the seeds of the annatto tree. Increasingly used as a replacement for the food colouring tartrazine (E102).
+
+E-number	E160c
+Name	Paprika extract; Capsanthan; Capsorubin 
+Function	Colour
+Foods	Curry, cheese. 
+Description	Orange-red spice extracted from red peppers.
+
+E-number	E160d
+Name	Lycopene
+Function	Colour
+Foods	Canned tomatoes 
+Description	Red colour extracted from tomatoes.
+
+E-number	E160e
+Name	Beta-apo-8'-carotenoic acid (C30) 
+Function	Colour
+Foods	Processed cheese. 
+Description	Orange-yellow synthetic colour.
+
+E-number	E160f
+Name	Ethyl ester of beta-apo-8'-carotenoic acid (C30)
+Function	Colour
+Foods	Cheese.
+Description	Synthesised version of a naturally-occuring orange colour.
+
+E-number	E161b
+Name	Lutein
+Function	Colour
+Foods	Eggs
+Description	Yellow-red colour extracted from plants. related to the carotenes (E160a). Can be added to chicken feed to enhance colour of egg yolk.
+
+E-number	E161g
+Name	Canthaxanthin
+Function	Colour
+Foods	Trout, salmon, confectionery. 
+Description	Orange colour extracted from plant materials. Added to feed in trout and salmon farms to enhance the colour of their flesh. Given to flamingos to replace naturally occuring pigments that promote pink colouration of feathers.
+
+E-number	E162
+Name	Beetroot Red; Betanin 
+Function	Colour
+Foods	Soup, jam, confectionery, ice cream. 
+Description	Purple colour obtained from beetroots.
+
+E-number	E163
+Name	Anthocyanins
+Function	Colour
+Foods	Canned soups, yoghurt, soft drinks.
+Description	Red-blue colours that are obtained from a variety of plant sources, especially grapes and red cabbage.
+
+E-number	E170
+Name	Calcium carbonate 
+Function	Colour, acidity regulator 
+Foods	Bread, confectionery, canned fruits. 
+Description	Chalk. Used as a white colour. As it is an alkali, calcium carbonate may also used to regulate the pH of foods such as canned fruits and vegetables.
+
+E-number	E171
+Name	Titanium dioxide 
+Function	Colour
+Foods	Sweets, processed cheese, sauces. 
+Description	White, mineral-based colour.
+
+E-number	E172
+Name	Iron oxides and hydroxides 
+Function	Colour
+Foods	Cake mix, meat paste.
+Description	Pigments that can give a variety of colours including orange, red, brown and black.
+
+E-number	E173
+Name	Aluminium
+Function	Colour
+Foods	Confectionery decorations. 
+Description	Silver coloured surface coating.
+
+E-number	E174
+Name	Silver
+Function	Colour
+Foods	Confectionery decorations. 
+Description	Silver coloured surface coating.
+
+E-number	E175
+Name	Gold
+Function	Colour
+Foods	Confectionery decorations. 
+Description	Gold coloured surface coating.
+
+E-number	E180
+Name	Litholrubine BK 
+Function	Colour
+Foods	Exterior of hard cheese. 
+Description	Red synthetic colour.
+
+
+
+
+
+
+E-number	E200
+Name	Sorbic Acid 
+Function	Preservative
+Foods	Drinks, dairy products, fish, seafood, fat-based products, baked foods and confectionery.
+Description	Sorbic acid and its salts (E200 - E203) are important preservatives in the industrialised countries. It has two main advantages favouring its widespread use as it is effective in a wide range of foods and it does not have any flavour or taste.
+
+E-number	E202
+Name	Potassium sorbate 
+Function	Preservative
+Foods	Ice cream, yoghurt, cheese, wine. 
+Description	Helps to prevent the growth of microbes on food. Related to Sorbic acid (E200). Effective in a wide range of foods. Does not have any flavour or taste.
+
+E-number	E203
+Name	Calcium sorbate 
+Function	Preservative
+Foods	Ice cream, yoghurt, fruit juice. 
+Description	Helps to prevent the growth of microbes on food. Related to Sorbic acid (E200). Effective in a wide range of foods. Does not have any flavour or taste.
+
+E-number	E210
+Name	Benzoic acid 
+Function	Preservative
+Foods	Beer, fruit juice, yoghurt, soft drinks. 
+Description	Prevents the growth of microbes in acidic environments.
+
+E-number	E211
+Name	Sodium benzoate 
+Function	Preservative
+Foods	Beer, fruit juice, yoghurt, soft drinks. 
+Description	Prevents the growth of microbes in acidic environments.
+
+E-number	E212
+Name	Potassium benzoate 
+Function	Preservative
+Foods	Fruit juice concentrate and margarine 
+Description	Prevents the growth of microbes in acidic environments.
+
+E-number	E213
+Name	Calcium benzoate 
+Function	Preservative
+Foods	Pineapple juice concentrate 
+Description	Prevents the growth of microbes.
+
+E-number	E214
+Name	Ethyl p-hydroxybenzoate 
+Function	Preservative
+Foods	Beer, fruit juices, preserves.
+Description	Prevents the growth of microbes.
+
+E-number	E215
+Name	Sodium ethyl p-hydroxybenzoate 
+Function	Preservative
+Foods	Fruit juices 
+Description	Prevents the growth of microbes.
+
+E-number	E216
+Name	Propyl p-hydroxybenzoate 
+Function	Preservative
+Foods	Beer, sauces, fruit juices, salad cream. 
+Description	Prevents the growth of microbes.
+
+E-number	E217
+Name	Sodium propyl p-hydroxybenzoate 
+Function	Preservative
+Foods	Fruit juices 
+Description	Prevents the growth of microbes.
+
+E-number	E218
+Name	Methyl p-hydroxybenzoate 
+Function	Preservative
+Foods	Beer, fruit juices, preserves.
+Description	Prevents the growth of microbes.
+
+E-number	E219
+Name	Sodium methyl p-hydroxybenzoate 
+Function	Preservative
+Foods	Beer, fruit juices, preserves.
+Description	Prevents the growth of microbes, especially fungi.
+
+E-number	E220
+Name	Sulfur dioxide 
+Function	Preservative
+Foods	Fruit juices, beers, wines, dried vegetables, sausages.
+Description	One of the earliest preservatives known to humans. Sulfur dioxide has been used for centuries to prevent the growth of bacteria in beers and wines. It can be used in many situations to prevent microbial growth.
+
+E-number	E221
+Name	Sodium sulfite 
+Function	Preservative
+Foods	Meats, beer, wine. 
+Description	Similar in action to sulfur dioxide. Sodium sulfite is regularly used in brewing and wine making to sterilise equipment. In foods it prevents microbial growth (especially salmonella). It also prevents the discolouration of meat, peeled apples and potatoes.
+
+E-number	E222
+Name	Sodium hydrogen sulfite 
+Function	Preservative
+Foods	Fruit juices, beers, wines, frozen chips.
+Description	Used to prevent the growth of bacteria in beers and wines. It can be used in many situations to prevent microbial growth.
+
+E-number	E223
+Name	Sodium metabisulfite 
+Function	Preservative, anti-oxidant, bleaching agent. 
+Foods	Fruit juices, dried potatoes, beers. 
+Description	Prevents microbial growth.
+
+E-number	E224
+Name	Potassium metabisulfite 
+Function	Preservative
+Foods	Frozen chips, beer and wine. 
+Description	Prevents microbial growth, especially used in home brewing and wine making.
+
+E-number	E226
+Name	Calcium sulfite 
+Function	Preservative
+Foods	Beers, fruit juices. 
+Description	Used in brewing and wine making to sterilise equipment and prevent microbial growth.
+
+E-number	E227
+Name	Calcium hydrogen sulfite 
+Function	Preservative
+Foods	Beers, jam. 
+Description	Used in brewing and wine making to sterilise equipment and prevent microbial growth.
+
+E-number	E228
+Name	Potassium hydrogen sulfite 
+Function	Preservative
+Foods	Hamburgers, sausages, beer, dried potatoes.
+Description	Slows the growth of food-spoiling micro-organisms.
+
+E-number	E230
+Name	Biphenyl, diphenyl 
+Function	Preservative
+Foods	Fruits
+Description	Prevents the growth of moulds such as Penicillium sp. on the surface of fruits.
+
+E-number	E231
+Name	Orthophenyl phenol 
+Function	Preservative
+Foods	Oranges, lemons and limes. 
+Description	Prevents the growth of microbes. Applied to the surface of fruits or their wrappings.
+
+E-number	E232
+Name	Sodium orthophenyl phenol 
+Function	Preservative
+Foods	Oranges, lemons and limes. 
+Description	Prevents the growth of microbes. Applied to the surface of fruits or their wrappings.
+
+E-number	E234
+Name	Nisin
+Function	Preservative
+Foods	Cheese.
+Description	Prevents the growth of microbes.
+
+E-number	E235
+Name	Natamycin
+Function	Preservative
+Foods	Cheese
+Description	Antimicrobial that prevents the growth of fungi in cheeses.
+
+E-number	E239
+Name	Hexamethylene tetramine 
+Function	Preservative
+Foods	Smoked fish. 
+Description	Prevents the growth of microbes.
+
+E-number	E242
+Name	Dimethyl dicarbonate 
+Function	Preservative
+Foods	Fruit juices, beers, wines
+Description	Prevents the growth of microbes.
+
+E-number	E249
+Name	Potassium nitrite 
+Function	Preservative
+Foods	Cooked meats
+Description	Prevents the growth of the botulism bacteria (Clostridium botulinum) in meat.
+
+E-number	E250
+Name	Sodium nitrite 
+Function	Preservative
+Foods	Cooked meats 
+Description	Prevents the growth of the botulism bacteria (Clostridium botulinum) in meat.
+
+E-number	E251
+Name	Sodium nitrate 
+Function	Preservative
+Foods	Processed meats, cheese, pizza. 
+Description	Reduces the growth of toxic micro-organisms in meat.
+
+E-number	E252
+Name	Potassium nitrate 
+Function	Preservative
+Foods	Meats
+Description	Prevents the growth of the bacteria that causes botulism (Clostridium botulinum).
+
+E-number	E260
+Name	Acetic acid 
+Function	Preservative
+Foods	Pickles, bread, salad cream, processed cheese, beer. 
+Description	Reduces the growth of bacteria and can also be used to regulate the acidity of foods.
+
+E-number	E261
+Name	Potassium acetate 
+Function	Colour preservative and pH regulator 
+Foods	Baked goods . 
+Description	Potassium salt of acetic acid.
+
+E-number	E262
+Name	Sodium acetate 
+Function	Preservative and pH regulator. 
+Foods	Bread, crisps. 
+Description	Sodium salt of acetic acid.
+
+E-number	E263
+Name	Calcium acetate 
+Function	Preservative and pH regulator. 
+Foods	Bread.
+Description	Calcium salt of acetic acid. Reduces the growth of fungi in bread.
+
+E-number	E270
+Name	Lactic acid 
+Function	Preservative, pH regulator 
+Foods	Pickles, tinned fruit, beer, margarine, confectionery. 
+Description	Produced commercially by the fermentation of lactic acid bacteria.
+
+E-number	E280
+Name	Propionic acid 
+Function	Preservative
+Foods	Bread, yoghurt, cheese. 
+Description	Naturally-occuring fatty acid. Reduces the growth of fungi.
+
+E-number	E281
+Name	Sodium propionate 
+Function	Preservative
+Foods	Bread, cheese. 
+Description	Prevents the growth of bacteria in breads.
+
+E-number	E282
+Name	Calcium propionate 
+Function	Preservative
+Foods	Bread, cheese. 
+Description	Prevents the growth of bacteria in breads.
+
+E-number	E283
+Name	Potassium propionate 
+Function	Preservative
+Foods	Bread, cheese. 
+Description	Prevents the growth of bacteria in breads.
+
+E-number	E284
+Name	Boric acid 
+Function	Preservative, pH regulator. 
+Foods	Caviar.
+Description	Used on the surface to prevent spoilage.
+
+E-number	E285
+Name	Sodium tetraborate, borax 
+Function	Preservative. 
+Foods	Caviar.
+Description	Used on the surface to prevent spoilage.
+
+E-number	E290
+Name	Carbon dioxide 
+Function	Preservative, aerator, packaging gas. 
+Foods	Carbonated drinks, 
+Description	Gas.
+
+E-number	E296
+Name	Malic acid 
+Function	Preservative
+Foods	Carbonated drinks, tinned soups, frozen chips, processed peas. 
+Description	Naturally-occuring compound. Commercially produced by chemical synthesis.
+
+E-number	E297
+Name	Fumaric acid 
+Function	Preservative
+Foods	Yoghurt, jam. 
+Description	Naturally occuring compound. Produced commercially by fermentation.
+
+
+
+
+
+E-number	E300
+Name	Ascorbic acid, vitamin C 
+Function	Antioxidant
+Foods	Beers, cut fruits, jams, dried potato. 
+Description	Helps to prevent cut and pulped foods from going brown by preventing the oxidation reactions that cause the discolouration. Can be added to foods, such as potato, to replace vitamin C lost in processing.
+
+E-number	E301
+Name	Sodium ascorbate 
+Function	Antioxidant
+Foods	Processed meats, sausages, baby foods. 
+Description	Helps to prevent oxidation reactions that can discolour foods.
+
+E-number	E302
+Name	Calcium ascorbate 
+Function	Antioxidant
+Foods	Processed meats, soup. 
+Description	Helps to prevent oxidation reactions that can discolour foods.
+
+E-number	E304
+Name	Fatty acid esters of ascorbic acid 
+Function	Antioxidant
+Foods	Fats and cooking oils . 
+Description	Helps to prevent oxidation reactions that can discolour foods.
+
+E-number	E306
+Name	Tocopherols
+Function	Antioxidant
+Foods	Oils, meat pies. 
+Description	Obtained from soya beans and maize. Reduces oxidation of fatty acids and some vitamins.
+
+E-number	E307
+Name	Alpha-tocopherol
+Function	Antioxidant
+Foods	Sausages.
+Description	Obtained from soya beans and maize. Reduces oxidation of fatty acids and some vitamins.
+
+E-number	E308
+Name	Gamma-tocopherol
+Function	Antioxidant
+Foods	Processed meats. 
+Description	Obtained from soya beans and maize. Reduces oxidation of fatty acids and some vitamins.
+
+E-number	E309
+Name	Delta-tocopherol
+Function	Antioxidant
+Foods	Processed meat products, baked goods . 
+Description	Obtained from soya beans and maize. Reduces oxidation of fatty acids and some vitamins.
+
+E-number	E310
+Name	Propyl gallate 
+Function	Antioxidant
+Foods	Oils, margarines, butter. 
+Description	Helps to prevent oxidation reactions that can cause oils and fats to become spoiled.
+
+E-number	E311
+Name	Octyl gallate 
+Function	Antioxidant
+Foods	Oils, margarines, butter. 
+Description	Helps to prevent oxidation reactions that can cause oils and fats to become spoiled.
+
+E-number	E312
+Name	Dodecyl gallate 
+Function	Antioxidant
+Foods	Oils, margarines, butter. 
+Description	Helps to prevent oxidation reactions that can cause oils and fats to become spoiled.
+
+E-number	E315
+Name	Erythorbic acid 
+Function	Antioxidant
+Foods	Brewing process. 
+Description	Derived from ascorbic acid (vitamin C).
+
+E-number	E316
+Name	Sodium erythorbate 
+Function	Antioxidant
+Foods	Oils, margarine, butter, cheese, biscuits. 
+Description	Helps to prevent oxidations that cause oils and fats to become rancid.
+
+E-number	E320
+Name	Butylated hydroxyanisole, BHA 
+Function	Antioxidant
+Foods	Oils, margarine, cheese, crisps. 
+Description	Helps to prevent oxidations that cause oils and fats to become rancid.
+
+E-number	E321
+Name	Butylated hydroxytoluene, BHT
+Function	Antioxidant
+Foods	Oils, margarine, cheese, crisps. 
+Description	Helps to prevent oxidations that cause oils and fats to become rancid.
+
+E-number	E322
+Name	Lecithins
+Function	Antioxidant, emulsifier 
+Foods	Chocolates, salad creams, mayonnaise 
+Description	Obtained from soya beans, maize, peanuts and egg yolk. As an emulsifier it helps fats and oils to mix. This prevents their separation into separate parts in foods such as chocolate, salad creams and mayonnaise.
+
+E-number	E325
+Name	Sodium lactate 
+Function	Antioxidant
+Foods	Dairy products. 
+Description	Helps to increase the anti-oxidant activity of other substances.
+
+E-number	E326
+Name	Potassium lactate 
+Function	Antioxidant, pH regulator 
+Foods	Jam, ice cream. 
+Description	Helps to increase the anti-oxidant effects of other substances. Can also be used to regulate pH in jams and jellies.
+
+E-number	E327
+Name	Calcium lactate 
+Function	Antioxidant, pH regulator 
+Foods	Jam, tinned fruit. 
+Description	Helps to increase the anti-oxidant effects of other substances. Helps to reduce the reactions that can discolour fruits. May also be used to regulate pH in jams and jellies.
+
+E-number	E330
+Name	Citric acid
+Function	Antioxidant
+Foods	Jam, tinned fruit, biscuits, alcoholic drinks, cheese, dried soup. 
+Description	Naturally-occuring in citrus fruits like lemons. Helps to increase the anti-oxidant effects of other substances. Helps to reduce the reactions that can discolour fruits. May also be used to regulate pH in jams and jellies.
+
+E-number	E331
+Name	Sodium citrates 
+Function	Antioxidant, pH regulator. 
+Foods	Jam, tinned fruit, biscuits, alcoholic drinks, cheese, dried soup. 
+Description	Helps to increase the anti-oxidant effects of other substances. Reduces the reactions that can discolour fruits. May also be used to regulate pH in jams and jellies. Assists in retaining the 'fizz' of carbonated drinks.
+
+E-number	E332
+Name	Potassium citrates 
+Function	Antioxidant, pH regulator. 
+Foods	Cakes, cheese, carbonated drinks, jam, biscuits. 
+Description	Reduces the reactions that can discolour fruits. May also be used to regulate pH.
+
+E-number	E333
+Name	Calcium citrates 
+Function	Anti-oxidant, pH regulator 
+Foods	Carbonated drinks, cheeses, tinned fruits, wine. 
+Description	Helps to regulate pH. Added to flour to give more consistent baking of bread. Reduces reaction that discolour fruits.
+
+E-number	E334
+Name	Tartaric acid 
+Function	Antioxidant, pH regulator. 
+Foods	Jams, carbonated drinks, tinned fruits, cakes. 
+Description	Acid that occurs naturally in many fruits. Commercially obtained from grapes during the wine-making process. Reduces the reactions that cause fruits to discolour.
+
+E-number	E335
+Name	Sodium tartrates 
+Function	Antioxidant, pH regulator. 
+Foods	Jams, carbonated drinks, tinned fruits, cakes. 
+Description	Acid that occurs naturally in many fruits. Commercially obtained from grapes during the wine-making process. Reduces the reactions that cause fruits to discolour.
+
+E-number	E336
+Name	Potassium tartrates 
+Function	Antioxidant, pH regulator. 
+Foods	Fruit pie mixes, wine, bread production. 
+Description	Commercially obtained from grapes during the wine-making process. Used to regulate the pH of wine and also to help flour rise consistently.
+
+E-number	E337
+Name	Sodium potassium tartrate 
+Function	Antioxidant, pH regulator, stabiliser.
+Foods	Margarine, processed meat, cheese, confectionery.
+Description	Helps to increase the effcts of other antioxidants. Regulates pH in cakes and jams
+
+E-number	E338
+Name	Phosphoric acid 
+Function	Antioxidant, pH regulator, flavour.
+Foods	Beer, confectionery, sausages, vegetable oils. 
+Description	Helps to increase the effcts of other antioxidants. Regulates pH in cakes and sweets. Used as a flavour to carbonated drinks.
+
+E-number	E339
+Name	Sodium phosphates 
+Function	Antioxidant, pH regulator, stabiliser. 
+Foods	Sausages, cheese, pork pies. 
+Description	Helps to improve the texture of foods and also increase the effects of other antioxidants.
+
+E-number	E340
+Name	Potassium phosphates 
+Function	Antioxidant, pH regulator 
+Foods	Custard powder, jelly mixes, powdered milk, cooked meats, soups. 
+Description	Range of phosphate salts of potassium. Can help to increase the effect of other antioxidants.
+
+E-number	E341
+Name	Calcium phosphates 
+Function	Antioxidant, firming agent. 
+Foods	Self-raising flour, powdered milk drinks, cake mixes. 
+Description	Helps to improve the action of other antioxidants. Added to baking flour to improve the consistency and texture of bread.
+
+E-number	E343
+Name	Magnesium phosphates 
+Function	Antioxidant
+Foods	Vegetable protein drinks. 
+Description	Used in beverages to prevent oxidation reactions that will spoil the drink.
+
+E-number	E350
+Name	Sodium malates 
+Function	pH regulator 
+Foods	Jams
+Description	Helps to maintain the pH in foods containing processed fruits such as jams and marmalade.
+
+E-number	E351
+Name	Potassium malate 
+Function	pH regulator 
+Foods	Jams
+Description	Helps to maintain the pH in foods containing processed fruits such as jams and marmalade.
+
+E-number	E352
+Name	Calcium malate 
+Function	pH regulator 
+Foods	Jams
+Description	Helps to maintain the pH in foods containing processed fruits such as jams and marmalade.
+
+E-number	E353
+Name	Metatartaric acid 
+Function	Sequestrant
+Foods	Wine
+Description	Used in the production of wine to remove suspended particles and make the wine clear.
+
+E-number	E354
+Name	Calcium tartrate 
+Function	Antioxidant
+Foods	Baked goods . 
+Description	Calcium salt of tartaric acid. Prevents oxidation.
+
+E-number	E355
+Name	Adipic acid 
+Function	Acidulant, pH regulator 
+Foods	Drinks
+Description	Helps to give fruit drinks the characteristic sharp flavour.
+
+E-number	E356
+Name	Sodium adipate 
+Function	pH regulator 
+Foods	Cake toppings, powdered dessert mixes.
+Description	Helps to maintin the correct level of acidity for the food.
+
+E-number	E357
+Name	Potassium adipate 
+Function	pH regulator. 
+Foods	Cake fillings and toppings, dessert mixes.
+Description	Helps to maintain the correct level of acidity for the food.
+
+E-number	E363
+Name	Succinic acid 
+Function	pH regulator 
+Foods	Desserts, soups.
+Description	Naturally occuring weak organic acid.
+
+E-number	E380
+Name	Triammonium citrate 
+Function	pH regulator, emulsifier. 
+Foods	Cheese spread. 
+Description	helps to keep maintain the correct consistency of cheese spreads.
+
+E-number	E385
+Name	Calcium disodium EDTA 
+Function	Chelating agent 
+Foods	Tinned fish 
+Description	Chelating agents attract ions such as copper, zinc and iron. They trap the ions and prevent them from reacting which could make the food go rancid.
+
+
+
+
+
+E-number	E400
+Name	Alginic acid 
+Function	Stabilizer, gelling agent 
+Foods	Soft drinks, yoghurt, jam.
+Description	Obtained from brown sea weed.
+
+E-number	E401
+Name	Sodium alginate 
+Function	Stabilizer, gelling agent 
+Foods	Syrups, sauces, ice cream, fruit drinks, fruit pie fillings. 
+Description	Derived from brown sea weed.
+
+E-number	E402
+Name	Potassium alginate 
+Function	Emulsifier, stabilizer, gelling agent. 
+Foods	Syrups, sauces, ice cream, fruit drinks, fruit pie fillings. 
+Description	Derived from brown sea weed. More often, sodium alginate (E401) is used in foods.
+
+E-number	E403
+Name	Ammonium alginate 
+Function	Emulsifier, stabilizer
+Foods	Icing sugar 
+Description	Derived from brown sea weed.
+
+E-number	E404
+Name	Calcium alginate 
+Function	Emulsifier, stabilizer, gelling agent 
+Foods	Yoghurt, cream cheese, ice cream, tinned vegetables, pasteurised cream. 
+Description	Derived from brown sea weed.
+
+E-number	E405
+Name	Propane-1,2-diol alginate 
+Function	Emulsifier, stabilizer
+Foods	Ice cream, salad dressing, fruit drinks. 
+Description	Derived from brown sea weed.
+
+E-number	E406
+Name	Agar
+Function	Stabiliser, gelling agent, thickener.
+Foods	Ice cream, drinks, cakes, yoghurt. 
+Description	Polysaccharide obtained from certain varieties of sea weed.
+
+E-number	E407
+Name	Carrageenan
+Function	Stabiliser, gelling agent, thickener.
+Foods	Milk drinks, ice cream, biscuits, jam, processed meats, pastries. 
+Description	Mixture of polysaccharides produced from a variety of red sea weeds.
+
+E-number	E407a
+Name	Processed eucheuma seaweed 
+Function	Stabiliser, gelling agent, thickener.
+Foods	Milk drinks, ice cream, biscuits, jam, processed meats, pastries.
+Description	Mixture of polysaccharides produced from a variety of sea weeds.
+
+E-number	E410
+Name	Locust bean gum, carob gum 
+Function	Stabiliser, gelling agent, thickener. 
+Foods	Tinned vegetables, processed cream, cakes, fruit pie fillings, salad cream. 
+Description	Polysaccharide obtained from the seeds of the Carob tree.
+
+E-number	E410
+Name	Locust bean gum, carob gum 
+Function	Stabiliser, gelling agent, thickener. 
+Foods	Tinned vegetables, processed cream, cakes, fruit pie fillings, salad cream. 
+Description	Polysaccharide obtained from the seeds of the Carob tree.
+
+E-number	E412
+Name	Guar gum 
+Function	Thickener, gelling agent, stabiliser. 
+Foods	Coleslaw, dried soups, brown sauce, ice cream, yoghurt, fruit drinks. 
+Description	Polysaccharide obtained from the seeds of the Cluster bean plant. Can be used in foods for diabetics to assist in the control of blood sugar levels.
+
+E-number	E413
+Name	Tragacanth
+Function	Stabiliser, thickener, emulsifier.
+Foods	Processed cheese, confectionery, salad dressing, jams, yoghurt. 
+Description	A naturally occuring polysaccharide that is collected from the stems of the tragacanth bush.
+
+E-number	E414
+Name	Acacia gum, gum arabic 
+Function	Stabiliser, thickener, emulsifier.
+Foods	Beer, sweets, tinned vegetables. 
+Description	A naturally occuring polysaccharide that is collected from the stems of the acacia bush. Helps to prevent the formation of large sugar crystals in sweets and also retains the froth on beer.
+
+E-number	E415
+Name	Xanthan gum 
+Function	Stabiliser, thickener, emulsifier.
+Foods	Salad dressing, dairy products, cake mix, coleslaw. 
+Description	Obtained by the fermentation of sugar by the bacteria Xanthomonas campestris.
+
+E-number	E416
+Name	Karaya gum 
+Function	Stabiliser, emulsifier, thickener. 
+Foods	Brown sauce, confectionery, ice cream.
+Description	A naturally occuring polysaccharide obtained from the stems of the karaya tree. Major producing regions are North and Central India.
+
+E-number	E417
+Name	Tara gum 
+Function	Stabiliser, emulsifier, thickener. 
+Foods	Stabiliser
+Description	Polysaccharide which is a good stabiliser for use in dairy products.
+
+E-number	E418
+Name	Gellan gum 
+Function	Gelling agent 
+Foods	Jellies, confectionery, low calorie drinks. 
+Description	A polysaccharide obtained by fermentation using the bacteria Sphingomonas elodea.
+
+E-number	E420
+Name	Sorbitol
+Function	Sweetener, stabiliser. 
+Foods	Sweets, ice cream, cakes, chocolates, some artificially sweetened drinks. 
+Description	Sorbitol syrup is produced commercially from glucose. It can help to reduce the formation of sugar crystals in food and maintain the texture of chewy sweets.
+
+E-number	E421
+Name	Mannitol
+Function	Sweetener, anti-caking agent
+Foods	Sweets, ice cream. 
+Description	Carbohydrate prepared from the sea weed Manna ash or commercially from glucose.
+
+E-number	E422
+Name	Glycerol
+Function	Sweetener, humectant. 
+Foods	Confectionery, drinks, desserts. 
+Description	Glycerol is a humectant. That means it is added to foods like fruit gums to prevent them from drying out. It can also be used to dissolve other flavours before adding them to the food.
+
+E-number	E431
+Name	Polyoxyethylene (40) stearate 
+Function	Emulsifier.
+Foods	Bread.
+Description	Used to give bread a soft texture.
+
+E-number	E432
+Name	Polysorbate 20 
+Function	Emulsifier, stabiliser. 
+Foods	Cakes, desserts, milk substitutes.
+Description	Emulsifiers help to prevent fats from separating out of solutions. This property is useful in artificial milks such as coffee creamers.
+
+E-number	E433
+Name	Polysorbate 80 
+Function	Emulsifier, stabiliser.
+Foods	Bread, pastries, ice cream. 
+Description	Complex mixture of esters of sorbitol.
+
+E-number	E434
+Name	Polysorbate 40 
+Function	Emulsifier, stabiliser. 
+Foods	Confectionery, ice cream.
+Description	Complex mixture of esters of sorbitol.
+
+E-number	E435
+Name	Polysorbate 60 
+Function	Emulsifier, stabiliser. 
+Foods	Confectionery, bread, ice cream, sweets. 
+Description	Complex mixture of esters of sorbitol.
+
+E-number	E436
+Name	Polysorbate 65
+Function	Emulsifier, stabiliser. 
+Foods	Bread, pastries, frozen desserts. 
+Description	Complex mixture of esters of sorbitol.
+
+E-number	E440
+Name	Pectins
+Function	Emulsifier, thickener, stabiliser. 
+Foods	Jams, yoghurts, ice cream, diet drinks.
+Description	Polysaccharide that is naturally found as a component of plant cell walls.
+
+E-number	E442
+Name	Ammonium phosphatides 
+Function	Stabiliser, emulsifier. 
+Foods	Chocolate.
+Description	Synthetically-produced stabiliser.
+
+E-number	E444
+Name	Sucrose acetate isobutyrate 
+Function	Clouding agent for fruit drinks . 
+Foods	Non-alcoholic, flavoured cloudy drinks. 
+Description	Derived from cane sugar.
+
+E-number	E450
+Name	Diphosphates
+Function	pH regulator, emulsifier.
+Foods	Cakes, instant mashed potato, cheese.
+Description	Can also be used to improve the colour of foods and as a raising agent in baking.
+
+E-number	E451
+Name	Triphosphates
+Function	pH regulator, emulsifier.
+Foods	Fish fingers.
+Description	Can also be used to improve the colour of foods.
+
+E-number	E452
+Name	Polyphosphates
+Function	pH regulator, emulsifier, stabiliser.
+Foods	Dried foods, desserts.
+Description	Can also be used to improve the colour of foods and as a raising agent in baking.
+
+E-number	E459
+Name	Beta-cyclodextrin
+Function	Stabiliser. 
+Foods	Foods in tablet or coated tablet form. 
+Description	Starch-based material used as a tableting excipient.
+
+E-number	E460
+Name	Cellulose
+Function	Thickener, anti-caking agent.
+Foods	High fibre breads, 'diet' snacks, dried foods. 
+Description	Main component of plant cell walls. It is not digestible by humans and so adds bulk to the food. Also known as fibre or roughoage. Used in brewing to clarify beers.
+
+E-number	E461
+Name	Methyl cellulose
+Function	Emulsifier, thickener.
+Foods	Processed potato snacks, soft drinks, cakes. 
+Description	Derived from cellulose, the main component of plant cell walls. It is not digestible by humans and so adds bulk to the food. Also known as fibre or roughage. Can be used in special diets for diabetics or lactose intolerant people.
+
+E-number	E463
+Name	Hydroxypropyl cellulose 
+Function	Stabiliser, emulsifier, thickener. 
+Foods	Cakes.
+Description	Prepared from cellulose. Used to produce the glazed effect on cakes.
+
+E-number	E464
+Name	Hydroxypropyl methyl cellulose 
+Function	Emulsifier, thickener, stabiliser. 
+Foods	Processed potato foods. 
+Description	Derived from cellulose, the main component of plant cell walls.
+
+E-number	E465
+Name	Ethyl methyl cellulose 
+Function	Emulsifier, thickener, stabiliser. 
+Foods	Processed potato foods. 
+Description	Derived from cellulose, the main component of plant cell walls.
+
+E-number	E466
+Name	Carboxy methyl cellulose 
+Function	Emulsifier, thickener, stabiliser. 
+Foods	Frozen chipped potatoes, cheese, cake fillings, diet soft drinks, dried potato. 
+Description	Derived from cellulose, the main component of plant cell walls.
+
+E-number	E468
+Name	Cross-linked sodium carboxy methyl cellulose 
+Function	Carrier for sweetener.
+Foods	Sweeteners and food supplements
+Description	Derived from cellulose, which cannot be digested in the body.
+
+E-number	E469
+Name	Enzymatically hydrolysed carboxy methyl cellulose 
+Function	Emulsifier, thickener, stabiliser. 
+Foods	Low calorie drinks, cake fillings. 
+Description	Derived from cellulose, the main constituent of plant cell walls.
+
+E-number	E470a
+Name	Sodium, potassium and calcium salts of fatty acids 
+Function	Stabiliser, emulsifier. 
+Foods	Cake mix, potato crisps.
+Description	Derivatives of fatty acids.
+
+E-number	E470b
+Name	Magnesium salts of fatty acids 
+Function	Stabiliser, emulsifier. 
+Foods	Bakery mixes, potato crisps.
+Description	Derivatives of fatty acids.
+
+E-number	E471
+Name	Mono- and di-glycerides of fatty acids 
+Function	Stabiliser, emulsifier, thickener. 
+Foods	Cakes, dried potato. 
+Description	Products that fats are broken down into during the digestive process. Produced commercially as an additive.
+
+E-number	E472
+Name	Esters of mono- and diglycerides of fatty acids 
+Function	Emulsifier, stabiliser. 
+Foods	Cake and dessert mixes. 
+Description	Can be added to food to give the desired texture.
+
+E-number	E473
+Name	Sucrose esters of fatty acids
+Function	Stabiliser, emulsifier. 
+Foods	Canned liquid coffee, heat-treated meat products, confectionery, chewing gum, non-alcoholic drinks. 
+Description	Reaction products of sucrose with animal and vegetable fats.
+
+E-number	E474
+Name	Sucroglycerides
+Function	Emulsifier.
+Foods	Canned liquid coffee, heat-treated meat products, confectionery, chewing gum, non-alcoholic drinks. 
+Description	Prepared from sources of plant and animal fats.
+
+E-number	E475
+Name	Polyglycerol esters of fatty acids 
+Function	Stabiliser, emulsifier. 
+Foods	Cakes and cake mixes. 
+Description	Synthetically produced from fatty acids.
+
+E-number	E476
+Name	Polyglycerol polyricinoleate 
+Function	Stabiliser, emulsifier. 
+Foods	Chocolate.
+Description	Obtained from plant oils.
+
+E-number	E477
+Name	Propane-1,2-diol esters of fatty acids 
+Function	Stabiliser, emulsifier. 
+Foods	Cake mixes. 
+Description	Derived from fatty acids.
+
+E-number	E479b
+Name	Thermally oxidised soya bean oil interacted with mono and diglycerides of fatty acids 
+Function	Emulsifier.
+Foods	Frying fat. 
+Description	Emulsifiers prevent fats from separating out when in a solution.
+
+E-number	E481
+Name	Sodium stearoyl-2-lactylate 
+Function	Stabiliser.
+Foods	Bread.
+Description	Derived from lactic acid.
+
+E-number	E482
+Name	Calcium stearoyl-2-lactylate 
+Function	Emulsifier, stabiliser. 
+Foods	Instant gravy. 
+Description	Derived from lactic acid.
+
+E-number	E483
+Name	Stearyl tartrate 
+Function	Stabiliser, emulsifier. 
+Foods	Flour.
+Description	Derived from tartaric acid.
+
+E-number	E491
+Name	Sorbitan monostearate 
+Function	Emulsifier, stabiliser. 
+Foods	Cake mix. 
+Description	Can be used to give confectionery a shiny appearance.
+
+E-number	E492
+Name	Sorbitan tristearate 
+Function	Emulsifier.
+Foods	Confectionery.
+Description	Synthetic additive.
+
+E-number	E493
+Name	Sorbitan monolaurate 
+Function	Stabiliser, emulsifier, anti-foaming agent. 
+Foods	Herbal tea concentrates.
+Description	Emulsifiers help to prevent fats from separating out when in a solution.
+
+E-number	E494
+Name	Sorbitan monooleate
+Function	Stabiliser, emulsifier. 
+Foods	Herbal tea concentrates.
+Description	Emulsifiers help to prevent fats from separating out when in a solution.
+
+E-number	E495
+Name	Sorbitan monopalmitate
+Function	Stabiliser, emulsifier. 
+Foods	Herbal tea concentrates.
+Description	Emulsifiers help to prevent fats from separating out when in a solution.
+
+
+
+
+E-number	E500
+Name	Sodium carbonates 
+Function	pH regulator 
+Foods	Beer, bread, cakes. 
+Description	Used in the brewing process. Sodium hydrogen carbonate (sodium bicarbonate) used as a raising agent in baking. Generates carbon dioxide gas during the baking process and this causes cakes and bread to rise.
+
+E-number	E501
+Name	Potassium carbonate 
+Function	pH regulator. 
+Foods	Baking powder, baked products, cocoa, chocolate products. 
+Description	Regulates the acididty of foods.
+
+E-number	E503
+Name	Ammonium carbonate 
+Function	pH regulator. 
+Foods	Baking powder, cakes, bread. 
+Description	Generates carbon dioxide gas during the baking process and this causes cakes and bread to rise.
+
+E-number	E504
+Name	Magnesium carbonate 
+Function	pH regulator, anti-caking agent. 
+Foods	Butter, biscuits.
+Description	May be added to table salt to help it flow smoothly when poured.
+
+E-number	E507
+Name	Hydrochloric acid 
+Function	Aids in processing of barley. 
+Foods	Beer making process. 
+Description	Used in the early stages of the brewing process to reduce the loss of sugars from barley.
+
+E-number	E508
+Name	Potassium chloride 
+Function	Gelling agent. 
+Foods	Brewing process, table salt.
+Description	Used as a low sodium alternative to table salt. Also in the early stages of the brewing process.
+
+E-number	E509
+Name	Calcium chloride 
+Function	Sequestrant.
+Foods	Brewing process. 
+Description	Added to water in the brewing process to obtain consistent quality of beer.
+
+E-number	E511
+Name	Magnesium chloride 
+Function	Firming agent 
+Foods	Canned vegetables. 
+Description	Complexes with pectins in vegetables to retain and firm structure during heat processing.
+
+E-number	E512
+Name	Stannous chloride 
+Function	Improves antioxidant effects (synergist). 
+Foods	Canned asparagus. 
+Description	Synergists are compounds that improve the effects of other additives.
+
+E-number	E513
+Name	Sulfuric acid 
+Function	Reduces loss of sugars in brewing process. 
+Foods	Brewing process. 
+Description	Used in the brewing process to reduce the loss of sugars from the barley. The acid does not remain in the final product.
+
+E-number	E514
+Name	Sodium sulfate 
+Function	Modify water consistency. 
+Foods	Brewing process. 
+Description	Used in the brewing process to modify water and ensure consistency of taste.
+
+E-number	E515
+Name	Potassium sulfate 
+Function	Salt substitute. 
+Foods	Table salt substitutes. 
+Description	May be used to replace table salt (sodium chloride) in diet products.
+
+E-number	E516
+Name	Calcium sulfate 
+Function	Firming agent, sequestrant. 
+Foods	Brewing process. 
+Description	Naturally occuring mineral. May be added to water in the brewing process to regulate water consistency.
+
+E-number	E517
+Name	Ammonium sulfate 
+Function	Carrier for other additives. 
+Foods	Dependent on additive. 
+Description	Carriers are substances that can be used to hold other additives.
+
+E-number	E521
+Name	Aluminium sodium sulfate 
+Function	Firming agent. 
+Foods	Egg white, glazed fruits.
+Description	Helps to ensure food has the desired texture. 
+
+E-number	E521
+Name	Aluminium sodium sulfate 
+Function	Firming agent. 
+Foods	Egg white, glazed fruits.
+Description	Helps to ensure food has the desired texture.
+
+E-number	E522
+Name	Aluminium potassium sulfate 
+Function	Firming agent. 
+Foods	Egg white, glazed fruits.
+Description	Helps to ensure food has the desired texture.
+
+E-number	E523
+Name	Aluminium ammonium sulfate 
+Function	Firming agent . 
+Foods	Egg white, glazed fruits. 
+Description	Helps to ensure that the food has the desired texture.
+
+E-number	E524
+Name	Sodium hydroxide 
+Function	Oxidising agent, solvent. 
+Foods	Brewing process, production of edible oils. 
+Description	Used in the processing of many foods. In the brewing process it is use to remove acids from barley. Used in the production of edible oils.
+
+E-number	E525
+Name	Potassium hydroxide 
+Function	Oxidising agent. 
+Foods	Production of cocoa-based foods. 
+Description	Used in the processing of foods.
+
+E-number	E526
+Name	Calcium hydroxide 
+Function	Firming agent, pH regulator. 
+Foods	Brewing process. 
+Description	Used to remove acids from barley in the brewing process.
+
+E-number	E527
+Name	Ammonium hydroxide 
+Function	pH regulator, solvent for food colourings. 
+Foods	Colourings added to food. 
+Description	Used in the processing of foods.
+
+E-number	E528
+Name	Magnesium hydroxide 
+Function	pH regulator. 
+Foods	Used in the processing of various foods. 
+Description	Used as a processing aid and is not found in significant amounts in the final product.
+
+E-number	E529
+Name	Calcium oxide
+Function	pH regulator. 
+Foods	Used in the processing of various foods. 
+Description	Used as a processing aid and is not found in significant amounts in the final product.
+
+E-number	E530
+Name	Magnesium oxide 
+Function	Anti-caking agent.
+Foods	Foods containing cocoa powder. 
+Description	Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E535
+Name	Sodium ferrocyanide 
+Function	Anti-caking agent. 
+Foods	Table salt substitutes. 
+Description	Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E536
+Name	Potassium ferrocyanide 
+Function	Anti-caking agent. 
+Foods	Table salt. 
+Description	Absorbs water and so helps to prevent salt from forming clumps and being difficult to pour.
+
+E-number	E538
+Name	Calcium ferrocyanide 
+Function	Anti-caking agent. 
+Foods	Table salt substitutes. 
+Description	Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E541
+Name	Sodium aluminium phosphate 
+Function	Raising agent. 
+Foods	Cakes.
+Description	Aerates cakes as they are baking to give them a light texture.
+
+E-number	E551
+Name	Silicon dioxide 
+Function	Anti-caking agent, thickener. 
+Foods	Beer and wine production process.
+Description	Used in beer and wine making to remove cloudiness during the production process.
+
+E-number	E552
+Name	Calcium silicate 
+Function	Anti-caking agent. 
+Foods	Table salt, sweets. 
+Description	A naturally occuring mineral. When processed, it absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E553a
+Name	Magnesium silicate 
+Function	Anti-caking agent. 
+Foods	Table salt, sweets. 
+Description	When processed, it absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E553b
+Name	Talc
+Function	Anti-caking agent. 
+Foods	Chewing gum. 
+Description	A naturally-occuring mineral. Helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E554
+Name	Sodium aluminium silicate 
+Function	Anti-caking agent. 
+Foods	Table salt, icing sugar. 
+Description	A naturally-occuring mineral. Helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E555
+Name	Potassium aluminium silicate 
+Function	Anti-caking agent. 
+Foods	Table salt substitutes, powdered food, sliced cheese. 
+Description	Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E556
+Name	Aluminium calcium silicate 
+Function	Anti-caking agent. 
+Foods	Table salt, chewing gum. 
+Description	Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E558
+Name	Bentonite
+Function	Anti-caking agent, clarifier. 
+Foods	Beer and wine production. 
+Description	A naturally-occuring mineral. Used to help reduce the cloudiness of beers and wines in their production.
+
+E-number	E559
+Name	Aluminium silicate, kaolin 
+Function	Anti-caking agent, clarifier. 
+Foods	Beer and wine production. 
+Description	A naturally-occuring mineral. Used to help reduce the cloudiness of beers and wines in their production.
+
+E-number	E570
+Name	Fatty acids 
+Function	Anti-caking agent 
+Foods	Wide range of powdered and dried foods, soup mixes, cake mixes. 
+Description	Helps to prevent powders from forming clumps and being difficult to pour.
+
+E-number	E574
+Name	Gluconic acid 
+Function	pH regulator. 
+Foods	Alcoholic and non-alcoholic drinks, dried foods.
+Description	Helps to maintain the correct acid-balance.
+
+E-number	E575
+Name	Glucono delta lactone 
+Function	Raising agent, sequestrant. 
+Foods	Milk sterilisation and brewing process. 
+Description	Prevents the formation of salt deposits in the brewing process and when milk is heated to high temperatures.
+
+E-number	E576
+Name	Sodium gluconate 
+Function	Sequestrant.
+Foods	Alcoholic and non-alcoholic drinks, dried foods.
+Description	Sequestrants combine with positive ions to form a soluble salt which improves the stability of the food.
+
+E-number	E577
+Name	Potassium gluconate 
+Function	Sequestrant.
+Foods	Alcoholic and non-alcoholic drinks, dried foods.
+Description	Sequestrants combine with positive ions to form a soluble salt which improves the stability of the food.
+
+E-number	E578
+Name	Calcium gluconate 
+Function	pH regulator, sequestrant. 
+Foods	Alcoholic and non-alcoholic drinks, dried foods.
+Description	Sequestrants combine with positive ions to form a soluble salt which improves the stability of the food.
+
+E-number	E579
+Name	Ferrous gluconate 
+Function	Stabiliser.
+Foods	Olives.
+Description	Helps to prevent food spoilage. Used with darkened olives.
+
+E-number	E585
+Name	Ferrous lactate 
+Function	Stabiliser.
+Foods	Olives.
+Description	Helps to prevent food spoilage. Used with darkened olives.
+
+
+
+
+
+
+E-number	E620
+Name	Glutamic acid 
+Function	Flavour enhancer. 
+Foods	Variety of foods as a flavour enhancer. 
+Description	A naturally-occuring amino acid. Commercially produced by the fermentation of bacteria.
+
+E-number	E621
+Name	Monosodium glutamate 
+Function	Flavour enhancer. 
+Foods	Variety of foods as a flavour enhancer. Cured and processed meats, noodles.
+Description	Derived from a naturally-occuring amino acid. Commercially produced by the fermentation of bacteria or by its isolation from plant proteins.
+
+E-number	E622
+Name	Monopotassium glutamate 
+Function	Flavour enhancer. 
+Foods	Variety of foods as a flavour enhancer, salt substitute.
+Description	Derived from a naturally-occuring amino acid. Commercially produced by the fermentation of bacteria.
+
+E-number	E623
+Name	Calcium diglutamate 
+Function	Flavour enhancer. 
+Foods	Meat soups. 
+Description	A naturally-occuring amino acid. Commercially produced by the fermentation of bacteria.
+
+E-number	E624
+Name	Monoammonium glutamate 
+Function	Flavour enhancer.
+Foods	May be used in any food. 
+Description	Derived from a naturally-occuring amino acid. Helps to bring out the flavours of many foods.
+
+E-number	E625
+Name	Magnesium diglutamate 
+Function	Flavour enhancer.
+Foods	May be used in any food. 
+Description	Derived from a naturally-occuring amino acid. Helps to bring out the flavours of many foods.
+
+E-number	E626
+Name	Guanylic acid 
+Function	Flavour enhancer.
+Foods	Seasonings.
+Description	Derived from a naturally-occuring amino acid. Helps to bring out the flavours of many foods.
+
+E-number	E627
+Name	Disodium guanylate 
+Function	Flavour enhancer. 
+Foods	Dried gravy granules, cured and prepared meats, meat soups. 
+Description	Derived from a naturally-found nucleotide (component of DNA) that is commercially synthesised for use as a food additive.
+
+E-number	E628
+Name	Dipotassium guanylate 
+Function	Flavour enhancer. 
+Foods	May be used in any food. 
+Description	Derived from a naturally-found nuceotide (component of DNA) that is commercially synthesised for use as a food additive.
+
+E-number	E629
+Name	Calcium guanylate 
+Function	Flavour enhancer. 
+Foods	May be used in any food. 
+Description	Derived from a naturally-found nuceotide (component of DNA) that is commercially synthesised for use as a food additive.
+
+E-number	E630
+Name	Inosinic acid 
+Function	Flavour enhancer. 
+Foods	Dried gravy granules, cured and prepared meats, meat soups. 
+Description	Component of muscle that can be obtained from meat extract and dried sardines.
+
+E-number	E631
+Name	Disodium inosinate 
+Function	Flavour enhancer. 
+Foods	Dried gravy granules, cured and prepared meats, meat soups. 
+Description	Component of muscle that can be obtained from meat extract and dried sardines.
+
+E-number	E632
+Name	Dipotassium inosinate 
+Function	Flavour enhancer. 
+Foods	Dried gravy granules, cured and prepared meats, meat soups. 
+Description	Component of muscle that can be obtained from meat extract and dried sardines.
+
+E-number	E633
+Name	Calcium inosinate 
+Function	Flavour enhancer. 
+Foods	Dried gravy granules, cured and prepared meats, meat soups. 
+Description	Component of muscle that can be obtained from meat extract and dried sardines.
+
+E-number	E634
+Name	Calcium 5'-ribonucleotides
+Function	Flavour enhancer. 
+Foods	May be used in any food. 
+Description	Similar to the molecules that make up DNA.
+
+E-number	E635
+Name	Disodium 5'-ribonucleotides
+Function	Flavour enhancer. 
+Foods	Reconstituted dried potato products. 
+Description	Similar to the molecules that make up DNA.
+
+E-number	E640
+Name	Glycine and its sodium salt 
+Function	Flavour enhancer. 
+Foods	May be used in any food. 
+Description	Naturally-occuring amino acid.
+
+E-number	E650
+Name	Zinc acetate 
+Function	Flavour enhancer. Also acts as a breth-freshener. 
+Foods	Chewing gum. 
+Description	Zinc salt of acetic acid.
+
+
+
+
+
+
+E-number	E900
+Name	Dimethylpolysiloxane
+Function	Anti-caking agent, anti-foaming agent. 
+Foods	Jams, soft drinks, soups, brewing process. 
+Description	Helps to prevent powders from clumping together and becoming difficult to pour.
+
+E-number	E901
+Name	Beeswax
+Function	Glazing agent. 
+Foods	Cakes and confectionery. 
+Description	Purified from honey-bee hives.
+
+E-number	E902
+Name	Candelilla wax
+Function	Glazing agent. 
+Foods	Chocolate, nuts, coffee beans, fruits. 
+Description	Glazing agents help to give the food an appealing appearance.
+
+E-number	E903
+Name	Carnauba wax
+Function	Glazing agent. 
+Foods	Chocolate confectionery. 
+Description	Obtained from the leaves of the Brazillian Wax Palm.
+
+E-number	E904
+Name	Shellac
+Function	Glazing agent. 
+Foods	Sweets, edible cake decorations.
+Description	Obtained from a resin produced by 'lac' insects and scale insects.
+
+E-number	E905
+Name	Microcrystalline wax 
+Function	Glazing agent. 
+Foods	Confectionery, dried fruits. 
+Description	Synthetically-produced waxes.
+
+E-number	E912
+Name	Montan acid esters 
+Function	Glazing agent. 
+Foods	Fruits. 
+Description	Glazing agents help to give the food an appealing appearance.
+
+E-number	E914
+Name	Oxidised polyethylene wax 
+Function	Glazing agent. 
+Foods	Fruits. 
+Description	Glazing agents help to give the food an appealing appearance.
+
+E-number	E920
+Name	L-cysteine
+Function	Flavour, flour treatment. 
+Foods	Cakes, chicken soup. 
+Description	A naturally-occuring amino acid. Used in cakes to improve the flour during baking conditions.
+
+E-number	E927b
+Name	Carbamide
+Function	Flour treatment. 
+Foods	Cakes. 
+Description	Used in cakes to improve the flour during baking conditions.
+
+E-number	E938
+Name	Argon
+Function	Packaging gas. 
+Foods	Variety of foods during their packagaing and transport. 
+Description	Inert gas that helps to prevent oxidation and microbials growth.
+
+E-number	E939
+Name	Helium
+Function	Packaging gas. 
+Foods	Variety of foods during their packagaing and transport. 
+Description	Inert gas that helps to prevent oxidation and microbials growth.
+
+E-number	E941
+Name	Nitrogen
+Function	Packaging gas. 
+Foods	Variety of foods during their packagaing and transport. 
+Description	Inert gas that helps to prevent oxidation and microbials growth.
+
+E-number	E942
+Name	Nitrous oxide
+Function	Propellant, packaging gas. 
+Foods	Awaiting information. 
+Description	Awaiting information.
+
+E-number	E943a
+Name	Butane
+Function	Awaiting information. 
+Foods	Awaiting information. 
+Description	Awaiting information.
+
+E-number	E943b
+Name	Iso-butane
+Function	Awaiting information. 
+Foods	Awaiting information. 
+Description	Awaiting information.
+
+E-number	E944
+Name	Propane
+Function	Awaiting information. 
+Foods	Awaiting information. 
+Description	Hydrocarbon gas.
+
+E-number	E948
+Name	Oxygen
+Function	Packaging gas, propellant.
+Foods	Awaiting information. 
+Description	Atmospheric gas.
+
+E-number	E949
+Name	Hydrogen
+Function	Packaging gas. 
+Foods	Awaiting information. 
+Description	Gas.
+
+E-number	E950
+Name	Acesulfame K 
+Function	Sweetener
+Foods	Sweeteners, diet drinks, desserts, baked foods and puddings. 
+Description	Artificial sweetener discoverd in 1967. It is approximately 200 times sweeter than sucrose and used in many low-calorie products.
+
+E-number	E951
+Name	Aspartame
+Function	Sweetener
+Foods	Sweeteners, diet drinks, desserts, baked foods and puddings. 
+Description	Artificial sweetener which is composed of aspartic acid and the methyl ester of phenylalanine (both amino acids). Used as a low-calorie sweetener in thousands of different products.
+
+E-number	E952
+Name	Cyclamic acid 
+Function	Sweetener
+Foods	Low calorie, non-alcoholic drinks. 
+Description	Artificial sweetener that is approximately 30 times sweeter than sucrose (table sugar).
+
+E-number	E953
+Name	Isomalt
+Function	Sweetener
+Foods	Desserts, ice cream, confectionery, sauces.
+Description	Derived from naturally-occuring sugars.
+
+E-number	E954
+Name	Saccharin
+Function	Sweetener
+Foods	Soft drinks, sugar substitutes. 
+Description	One of the first artificial sweeteners.
+
+E-number	E955
+Name	Sucralose
+Function	Sweetener.
+Foods	Used in foods as a sugar replacement. 
+Description	Derived from sugar (sucrose) but modified so that it is not absorbed into the body. Used as a low calorie sweetener and substitute for sugar.
+
+E-number	E957
+Name	Thaumatin
+Function	Sweetener, flavour enhancer. 
+Foods	Confectionery.
+Description	Plant protein extracted from a fruit native to West Africa.
+
+E-number	E959
+Name	Neohesperidine DC 
+Function	Sweetener. 
+Foods	Some drinks. 
+Description	Plant material extracted and purified from grapefruit skin.
+
+E-number	E965
+Name	Maltitol
+Function	Sweetener, stabiliser.
+Foods	Desserts, ice cream, confectionery, sauces.
+Description	Derived from naturally-occuring sugars.
+
+E-number	E966
+Name	Lactitol
+Function	Sweetener
+Foods	Desserts, ice cream, confectionery, sauces.
+Description	Derived from naturally-occuring sugars.
+
+E-number	E967
+Name	Xylitol
+Function	Sweetener
+Foods	Desserts, ice cream, confectionery, sauces.
+Description	Derived from naturally-occuring sugars.
+
+E-number	E999
+Name	Quillaia extract 
+Function	Foaming agent. 
+Foods	Soft drinks. 
+Description	Extracted from the bark of the soap tree (Quillaia saponaria). The tree is native to China and Peru and is commercially cultivated in southern California.
+
+E-number	E1103
+Name	Invertase
+Function	Preservative.
+Foods	Confectionery, soft-centred chocolates. 
+Description	Enzyme that breaks down sucrose. Commercially derived from the fermentation of yeast.
+
+E-number	E1105
+Name	Lysozyme
+Function	Preservative
+Foods	Ripened cheese. 
+Description	A naturally occuring enzyme that kills bacteria.
+
+E-number	E1200
+Name	Polydextrose
+Function	Stabiliser, thickener. 
+Foods	Baked products, chewing gum, dairy desserts, sweets.
+Description	Polydextrose is a low-calorie thickener that can help to replace sugars and fats.
+
+E-number	E1201
+Name	Polyvinylpyrrolidone
+Function	Supplement, carrier for sweetener.
+Foods	Dietary food supplement (tablets).
+Description	Carriers are substances that can be used to contain another additive.
+
+E-number	E1202
+Name	Polyvinylpolypyrrolidone
+Function	Supplement, carrier for sweetener.
+Foods	Dietary food supplement (tablets).
+Description	Carriers are substances that can be used to contain another additive.
+
+E-number	E1404
+Name	Oxidised starch 
+Function	Thickening agent, emulsifier. 
+Foods	Ice cream, pizza, battered fish, sald dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1410
+Name	Monostarch phosphate 
+Function	Stabiliser, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1412
+Name	Distarch phosphate 
+Function	Stabiliser, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1413
+Name	Phosphated distarch phosphate 
+Function	Stabiliser, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1414
+Name	Acetylated distarch phosphate 
+Function	Emulsifier, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1420
+Name	Acetylated starch
+Function	Stabiliser, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it.
+
+E-number	E1422
+Name	Acetylated distarch adipate 
+Function	Stabiliser, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it.
+
+E-number	E1440
+Name	Hydroxyl propyl starch 
+Function	Emulsifier, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1442
+Name	Hydroxyl propyl distarch phosphate 
+Function	Stabiliser, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1450
+Name	Starch sodium octenyl succinate 
+Function	Stabiliser, emulsifier, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1451
+Name	Acetylated oxidised starch 
+Function	Emulsifier, thickening agent. 
+Foods	Ice cream, pizza, battered fish, salad dressings. 
+Description	Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out.
+
+E-number	E1505
+Name	Triethyl citrate 
+Function	Foam stabiliser. 
+Foods	Dried egg white. 
+Description	Used in dried egg whites to allow them to foam correctly when beaten.
+
+E-number	E1518
+Name	Glyceryl triacetate, triacetin 
+Function	Humectant.
+Foods	Baked foods and mixes, soft drinks, chewing gum and sweets.
+Description	Helps to prevent the food it is added to from drying out.
+
+E-number	E1520
+Name	Propan-1,2-diol, propylene glycol 
+Function	Humectant, anti-caking agent. 
+Foods	Frozen dairy products.
+Description	Helps to prevent the food it is added to from drying out.

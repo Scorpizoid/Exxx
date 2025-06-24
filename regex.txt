@@ -1,0 +1,21 @@
+Etsi:
+
+(" ; })[\s\S]*?(\nRESOURCE TBUF r_)(.....)_name
+
+
+
+RESOURCE TBUF r_(....)_title { buf="[\s\S]*?
+RESOURCE TBUF r_(....)_name { buf="[\s\S]*?
+RESOURCE TBUF r_(....)_function[\s\S]*?
+RESOURCE TBUF r_(....)_foods([\s\S]*?)
+RESOURCE TBUF r_(....)_description[\s\S]*?
+
+
+
+Korvaa:
+" ; }
+
+
+
+RESOURCE TBUF r_\1_name { buf="\2
+RESOURCE TBUF r_\1_name2 { buf=""
